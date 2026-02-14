@@ -1,0 +1,66 @@
+===== 日本語 =====
+
+【アプリ名】
+myplan
+
+【サブタイトル】
+カレンダーにメモを書こう
+
+【説明文】
+myplanは、カレンダー上の日付にメモを残せるシンプルなアプリです。
+
+■ 主な機能
+・カレンダーから日付を選んでメモを入力・保存
+・3色のカラーマーカー（オレンジ・緑・紫）で日付を分類
+・メモがある日付はカレンダー上にマーカーで表示
+・キーワードでメモを検索
+・日本の祝日を自動で表示（2020〜2050年対応）
+・ダークモード対応
+・日本語 / English 切り替え対応
+
+■ こんな方におすすめ
+・日々の予定や出来事をサッと記録したい方
+・シンプルなカレンダーメモアプリを探している方
+・手帳代わりにスマホでメモを取りたい方
+
+すべてのデータは端末内に保存されます。アカウント登録やインターネット接続は不要です。
+
+【キーワード】
+カレンダー,メモ,日記,予定,スケジュール,手帳,祝日,プランナー
+
+【カテゴリ】
+仕事効率化（Productivity）
+
+
+===== English =====
+
+[App Name]
+myplan
+
+[Subtitle]
+Simple Calendar Memo
+
+[Description]
+myplan is a simple app that lets you add memos to dates on a calendar.
+
+■ Key Features
+- Select a date on the calendar and write a memo
+- Categorize dates with 3 color markers (orange, green, purple)
+- Dates with memos are highlighted on the calendar
+- Search memos by keyword
+- Japanese national holidays displayed automatically (2020-2050)
+- Dark mode support
+- Japanese / English language support
+
+■ Who is this for?
+- People who want to quickly jot down daily events
+- Anyone looking for a simple calendar memo app
+- Those who want a planner on their phone
+
+All data is stored locally on your device. No account registration or internet connection required.
+
+[Keywords]
+calendar,memo,diary,schedule,planner,notes,holidays,organizer
+
+[Category]
+Productivity
